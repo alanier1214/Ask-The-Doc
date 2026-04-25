@@ -1,6 +1,6 @@
 streamlit
 langchain==0.1.9
-langchain_opeai
+langchain_openai
 openai
 chromadb==0.4.4
 tiktoken
